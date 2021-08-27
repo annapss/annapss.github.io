@@ -1,15 +1,19 @@
-h1, h2{
+h1, h2 {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
-body{
+body {
     background-color: #d9d914;
 }
-p, li{
+p, li {
     font-family: Arial, Helvetica, sans-serif;
 }
-#borda{
+#borda {
     background-color: #46e04b;
     border: 5px black solid;
     padding: 20px 20px;
     margin: 20px 10px;
+}
+span.azul {
+    color: blue;
+    background-color: #d9d914;
 }
