@@ -17,3 +17,19 @@ span.azul {
     color: blue;
     background-color: #d9d914;
 }
+td, th{
+    border: 2px black solid;
+  }
+tr.fundoAzul{
+    background-color: #3c9ce6;
+    color: white;
+    font-weight: bold;
+}
+tr.fundoAmarelo{
+    background-color: #f5f249;
+    color: green;
+    font-weight: bold;
+}
+.centralizar{
+    text-align: center;
+}
