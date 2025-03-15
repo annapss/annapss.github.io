@@ -1,5 +1,4 @@
 # Olimpíadas TOKYO 2020
-<img src="https://imagens.ebc.com.br/LCvj-_dIAVE38_arMjwdW6iTu1A=/1170x700/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/jogos-olimpicos-de-toquio-2020.jpg?itok=sWndMnJz" height="200" weight="200">
 Esse é um site que foi feito para a avaliação de Desenvolvimento Web.
 Pensando nas Olimpíadas, fizemos um site falando sobre o quanto foi desafior realizar esse evento no meio de uma pandemia e até mesmo, se preparar para ele.
 
