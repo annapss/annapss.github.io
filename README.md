@@ -1,7 +1,8 @@
 # Olimpíadas TOKYO 2020
-Esse é um site que foi feito para a avaliação de Desenvolvimento Web.
+Esse é um site que foi feito para a avaliação de Desenvolvimento Web do Técnico em Informática do CEFET/RJ.
 Pensando nas Olimpíadas, fizemos um site falando sobre o quanto foi desafior realizar esse evento no meio de uma pandemia e até mesmo, se preparar para ele.
 
+Para esta entrega, era permitido utilizar somente HTML e CSS.
 ## Desenvolvedoras
 - <a href="https://github.com/annapss" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> Anna Paula Siqueira da Silva
 - <a href="https://github.com/luarodri" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> Luanda Rodrigues da Silva
